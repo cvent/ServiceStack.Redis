@@ -36,3 +36,4 @@ _ReSharper*/
 App_Data/
 NuGet/
 build/
+src/packages
