@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using ServiceStack.Caching;
+using ServiceStack.CacheAccess;
 
 namespace ServiceStack.Redis
 {
