@@ -148,6 +148,7 @@
     <Compile Include="BufferPool.cs" />
     <Compile Include="Commands.cs" />
     <Compile Include="ConnectionUtils.cs" />
+    <Compile Include="Crc32.cs" />
     <Compile Include="Generic\ManagedListGeneric.cs" />
     <Compile Include="Generic\QueuedRedisTypedCommand.cs" />
     <Compile Include="Generic\RedisClientsManagerExtensionsGeneric.cs" />
@@ -169,6 +170,7 @@
     <Compile Include="RedisClient_Slowlog.cs" />
     <Compile Include="RedisEndpoint.cs" />
     <Compile Include="ShardedConnectionPool.cs" />
+    <Compile Include="ShardedPoolRedisClientManager.cs" />
     <Compile Include="ShardedRedisClientManager.cs" />
     <Compile Include="Support\ConsistentHash.cs" />
     <Compile Include="Support\Locking\IDistributedLock.cs" />
